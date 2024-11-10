@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "parsing-vacancy-hh-ru"
+version = "0.1.0"
+description = ""
+authors = ["Dmitry_Bezgubov <dmitrij-bezgubov@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
