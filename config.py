@@ -1,5 +1,6 @@
-import os
+from pathlib import Path
 
 
-ROOT_DIR = os.path.dirname(__file__)
-DATA_DIR = os.path.join(ROOT_DIR, "data")
+BASE_DIR = Path(__file__).resolve().parent.parent
+PATH_TO_JSON = BASE_DIR / "parsing_vacancy_hh_ru" / "data"
+PATH_TO_TEST_JSON = BASE_DIR / "parsing_vacancy_hh_ru" / "tests"
