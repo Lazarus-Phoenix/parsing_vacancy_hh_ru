@@ -1,0 +1,242 @@
+[
+    {
+        "id": "110711272",
+        "premium": false,
+        "name": "Junior Python Developer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-11T23:21:22+0300",
+        "created_at": "2024-11-11T23:21:22+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110711272",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110711272?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110711272",
+        "relations": [],
+        "employer": {
+            "id": "9574451",
+            "name": "Improvado KZ",
+            "url": "https://api.hh.ru/employers/9574451",
+            "alternate_url": "https://hh.ru/employer/9574451",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1058233.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5853573.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5853574.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9574451",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Basic knowledge of Python or 1 year in a role focused on Python backend development (perfectly with Django framework). ",
+            "responsibility": "Build and maintain back-end for Improvado's marketing analytics SaaS platform (including architectural improvements regarding scalability, reliability and performance). "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110711272",
+        "premium": false,
+        "name": "Junior Python Developer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-11T23:21:22+0300",
+        "created_at": "2024-11-11T23:21:22+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110711272",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110711272?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110711272",
+        "relations": [],
+        "employer": {
+            "id": "9574451",
+            "name": "Improvado KZ",
+            "url": "https://api.hh.ru/employers/9574451",
+            "alternate_url": "https://hh.ru/employer/9574451",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1058233.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5853573.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5853574.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9574451",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Basic knowledge of Python or 1 year in a role focused on Python backend development (perfectly with Django framework). ",
+            "responsibility": "Build and maintain back-end for Improvado's marketing analytics SaaS platform (including architectural improvements regarding scalability, reliability and performance). "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "110711272",
+        "premium": false,
+        "name": "Junior Python Developer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-11-11T23:21:22+0300",
+        "created_at": "2024-11-11T23:21:22+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110711272",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/110711272?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/110711272",
+        "relations": [],
+        "employer": {
+            "id": "9574451",
+            "name": "Improvado KZ",
+            "url": "https://api.hh.ru/employers/9574451",
+            "alternate_url": "https://hh.ru/employer/9574451",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1058233.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5853573.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5853574.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9574451",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Basic knowledge of Python or 1 year in a role focused on Python backend development (perfectly with Django framework). ",
+            "responsibility": "Build and maintain back-end for Improvado's marketing analytics SaaS platform (including architectural improvements regarding scalability, reliability and performance). "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "С началом дня после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }
+]
